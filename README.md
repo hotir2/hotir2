@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Daniel Hotir, tenho 22 anos e sou natural do Rio de janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Sou apaixonado por técnologia e tenho me interessado cada dia mais por essa área.
+Me chamo Daniel Hotir, tenho 22 anos e sou natural do Rio de janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Sou apaixonado por técnologia e tenho me interessado a cada dia mais por essa área.
 
 
 ---
