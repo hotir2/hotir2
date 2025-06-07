@@ -118,12 +118,5 @@ Me chamo Daniel Hotir, tenho 22 anos e sou natural do Rio de janeiro. Atualmente
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotir2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hotir2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 </p>
 
