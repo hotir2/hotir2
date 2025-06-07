@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Daniel Hotir, tenho 22 anos e sou natural do Rio de janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Sou apaixonado por técnologia e tenho me interessado a cada dia mais por essa área.
+Me chamo Daniel Hotir, tenho 22 anos e sou natural do Rio de janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Sou apaixonado por tecnologia e tenho me interessado a cada dia mais por essa área.
 
 
 ---
@@ -89,9 +89,25 @@ Me chamo Daniel Hotir, tenho 22 anos e sou natural do Rio de janeiro. Atualmente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  
 />
+<br/>
+<br/>
+---
+
+
+
+### 💻 Meus Projetos
+
+- [Gerador de Box Shadow](https://github.com/hotir2/Gerador_box_shadon)
+- [Gerador de Tarefas](https://github.com/hotir2/Gerador_de_Tarefas)
+- [Landing Page](https://github.com/hotir2/ladding-page)
+- [Hotir-host](https://github.com/hotir2/Hotir_Host)
+- [Calculadora-imc](https://github.com/hotir2/Calculadora_IMC)
 
 
 <br/>
+<br/>
+
+---
 
 ### 📊 Estatísticas
 
