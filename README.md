@@ -1,122 +1,63 @@
-# 👨‍💻Daniel Hotir
+# Olá, Eu sou o Daniel, Bem vindo! 👋
 
-**`Desenvolvedor Back-End`**
+Sou um desenvolvedor apaixonado por criar interfaces intuitivas, funcionais e visualmente atraentes. Meu foco é desenvolver aplicações eficientes e responsivas, sempre alinhadas às melhores práticas de desenvolvimento.
 
-Me chamo Daniel Hotir, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Sou apaixonado por tecnologia e tenho me interessado cada dia mais por essa área.
-
-
----
-
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Csharp"
-    title="Csharp" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Typescript"
-    title="Typecsript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img 
-    align="left" 
-    alt=".NET core" 
-    title=".NET core"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Mysql"
-    title="Mysql" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Djanjo" 
-    title="Djanjo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  
-/>
-<br/>
-<br/>
----
+<div align="center">
+  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Gif" width="480" />
+</div>
 
 
+##  My Skills
 
-### 💻 Meus Projetos
-
-- [Gerador de Box Shadow](https://github.com/hotir2/Gerador_box_shadon)
-- [Gerador de Tarefas](https://github.com/hotir2/Gerador_de_Tarefas)
-- [Landing Page](https://github.com/hotir2/ladding-page)
-- [Hotir-host](https://github.com/hotir2/Hotir_Host)
-- [Calculadora-imc](https://github.com/hotir2/Calculadora_IMC)
+Mergulhe nas minhas principais linguagens de programação e conhecimentos, aprimorados por meio de projetos e prática.
 
 
-<br/>
-<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotir2&layout=compact&langs_count=6&theme=radical&hide_border=true&card_width=450" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hotir2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
 
 ---
 
-### 📊 Estatísticas
+##  Tecnologias
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotir2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+Meu conjunto de tecnologias foi criado para um desenvolvimento moderno, escalável e dinâmico. Passe o mouse sobre os ícones para sentir a vibe tecnológica!
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 10px;">
+    <img src="https://img.icons8.com/color/2x/python.png" width="80" alt="Python" title="Python: Versatile, powerful scripting" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"width="80" alt="csharp" title="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"width="80" alt=".NET" title=".NET" />
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="80" alt="Bootstrap" title="Bootstrap: Sleek, responsive UI frameworks" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="80" alt="React" title="React: Dynamic, component-based UIs" />
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5" title="HTML5: The backbone of the web" />
+  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3" title="CSS3: Stunning, modern web designs" />
+  
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="80" alt="JavaScript" title="JavaScript: Interactive web magic" />
+</div>
+
+---
+
+##  Conecte-se comigo
+Vamos construir algo incrível juntos! Entre em contato através de:
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px;">
+  <a href="mailto:danielhotir.pessoal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/YxhcGpqc" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/danielhotir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/biancaalvess/biancaalvess/output/snake.svg" alt="Snake Animation" />
+</div>
+
+
+
+---
