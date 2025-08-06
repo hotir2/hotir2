@@ -25,8 +25,7 @@ Meu conjunto de tecnologias foi criado para um desenvolvimento moderno, escaláv
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 10px;">
     <img src="https://img.icons8.com/color/2x/python.png" width="80" alt="Python" title="Python: Versatile, powerful scripting" />
-  <img src="https://img.icons8.com/office/40/react.png"width="80" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"width="80" alt=".NET" title=".NET" /> 
+  <img src="https://img.icons8.com/officel/80/react.png"width="80" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="80" alt="Angular" title="Angular" />
   <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5" title="HTML5: The backbone of the web" />
   <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3" title="CSS3: Stunning, modern web designs" />
